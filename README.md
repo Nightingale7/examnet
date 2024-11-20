@@ -9,5 +9,7 @@ The algorithm is built on top of the STGEM testing tool ( https://gitlab.abo.fi/
 # Running the code
 * The arch-com 2024 benchmarks can be executed by running the command: `./run_arch_experiments_2024.sh`. 
 * The ambiegen benchmarks can be executed with `./run_ambiegen_experiments_2024.sh`
-* Output for the experiments can be found in `./outputs` folder and contains the number of executions required to falsify the benchmark. 
+* Output for the experiments can be found in the `./outputs` folder and contains the number of exeutions that it took to falsify each of the benchmarks. 
 
+# Previous Experiments
+* The data for experiments that were exeuted previously can be found in the folder `./test_results`.
